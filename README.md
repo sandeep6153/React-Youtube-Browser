@@ -1,5 +1,5 @@
 # React Youtube Browser 
-Thi is a react application using the youtube api and displays the videos on demand.
+This is a react application using the youtube api and displays the videos on demand.
 
 
 ### Getting Started
